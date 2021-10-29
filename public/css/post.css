@@ -1,0 +1,164 @@
+.logout a {
+  display: block;
+  text-align: right;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+section {
+  margin: auto;
+}
+
+table {
+  border: 1px solid #000;
+
+}
+
+th, td {
+  border: 1px solid #000;
+}
+
+.a {
+  width: 100px;
+}
+.b {
+  width: 48px;
+}
+.d {
+  width: 100px;
+}
+.e {
+  width: 100px;
+}
+.f {
+  width: 70px;
+}
+.g {
+  width: 600px;
+}
+.cc {
+  text-align: center;
+}
+.table1 {
+  /* margin-left: 70px; */
+  margin: auto;
+  margin-bottom: 40px;
+  border-collapse: collapse;
+}
+.table2 {
+  margin: auto;
+}
+
+a {
+  margin: 10px;
+  font-size: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.paging {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+h2 {
+  text-align: center;
+}
+
+/* 投稿フォーム */
+.contact_box {
+  width: 62%;
+  margin: auto;
+  border-radius: 16px;
+  border: 1px solid #ccc;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.contact_box h3 {
+  text-align: center;
+}
+
+.contact_box .toukou {
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+textarea {
+  margin-bottom: 10px;
+  width: 100%;
+  height: 150px;
+  border-radius: 8px;
+  resize: none;
+}
+
+.contact_box .errormsg {
+  color: red;
+}
+
+.submit {
+  width: 70px;
+  height: 40px;
+  font-size: 16px;
+  display: block;
+  margin-left: auto;
+}
+
+/* ログイン */
+.login_box {
+  width: 38%;
+  margin: auto;
+  border-radius: 16px;
+  border: 1px solid #ccc;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-bottom: 2%;
+  font-size: 20px;
+}
+.button {
+  display: block;
+  margin: auto;
+  margin-top: 12px;
+  width: 50%;
+  height: 30px;
+  font-size: 18px;
+}
+
+/* 新規登録 */
+.register_box {
+  width: 38%;
+  margin: auto;
+  border-radius: 16px;
+  border: 1px solid #ccc;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-bottom: 2%;
+  font-size: 20px;
+}
+
+/* 編集 */
+.flex li {
+  display: block;
+}
+.flex {
+  display: flex;
+}
+
+.btn-good{
+    display: inline-block;
+    padding: 0 8px;
+    cursor: pointer;
+}
+.btn-good:hover{
+    color: #f44336;
+}
+.active{
+    color: #f44336;
+}
+.btn-good .active{
+    color: #f44336;
+}
